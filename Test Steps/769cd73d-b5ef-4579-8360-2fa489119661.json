@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_contact_step3",
+        "step 2: At Page_contact_step3 click on textarea_object",
+        "step 3: At Page_contact_step3 click on input_object",
+        "step 4: At Page_contact_step3 click on input_combo_box_demo",
+        "step 5: At Page_contact_step3 click on li_combo_box_demo_option_0",
+        "step 6: Add visual checkpoint at Page_contact_step3"
+    ]
+}

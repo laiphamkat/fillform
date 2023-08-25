@@ -1,0 +1,43 @@
+Flow ID,Test Steps,Flow Priority
+7,"step 1: Navigate to Page_dvc-home_money-form1_money-form2
+step 2: At Page_dvc-home_money-form1_money-form2 click on button_object --> navigate to Page_dvc-home
+step 3: At Page_dvc-home click on button_object --> navigate to Page_dvc-home_tax-form1
+step 4: At Page_dvc-home_tax-form1 click on button_object --> navigate to Page_dvc-home_tax-form1_tax-form2
+step 5: At Page_dvc-home_tax-form1_tax-form2 click on button_object --> navigate to Page_dvc-home_tax-form1_tax-form2_tax-form3
+step 6: At Page_dvc-home_tax-form1_tax-form2_tax-form3 click on input_rf_
+step 7: At Page_dvc-home_tax-form1_tax-form2_tax-form3 click on input_rf_
+step 8: At Page_dvc-home_tax-form1_tax-form2_tax-form3 click on input_rf_
+step 9: At Page_dvc-home_tax-form1_tax-form2_tax-form3 click on button_object --> navigate to Page_dvc-home
+step 10: Add visual checkpoint at Page_dvc-home",High
+6,"step 1: Navigate to Page_dvc-home_money-form1_money-form2
+step 2: At Page_dvc-home_money-form1_money-form2 click on button_object --> navigate to Page_dvc-home
+step 3: At Page_dvc-home click on button_object --> navigate to Page_dvc-home_tax-form1
+step 4: At Page_dvc-home_tax-form1 click on button_object --> navigate to Page_dvc-home_tax-form1_tax-form2
+step 5: At Page_dvc-home_tax-form1_tax-form2 click on input_combo_box_demo
+step 6: Add visual checkpoint at Page_dvc-home_tax-form1_tax-form2",High
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on button_object --> navigate to Page_dvc-login
+step 3: Add visual checkpoint at Page_dvc-login",High
+2,"step 1: Navigate to Page_contact_step3
+step 2: At Page_contact_step3 click on textarea_object
+step 3: At Page_contact_step3 click on input_object
+step 4: At Page_contact_step3 click on input_combo_box_demo
+step 5: At Page_contact_step3 click on li_combo_box_demo_option_0
+step 6: Add visual checkpoint at Page_contact_step3",High
+5,"step 1: Navigate to Page_dvc-home_money-form1_money-form2
+step 2: At Page_dvc-home_money-form1_money-form2 click on button_object --> navigate to Page_dvc-home
+step 3: At Page_dvc-home click on button_object --> navigate to Page_dvc-home_tax-form1
+step 4: At Page_dvc-home_tax-form1 click on input_combo_box_demo
+step 5: Add visual checkpoint at Page_dvc-home_tax-form1",Medium
+4,"step 1: Navigate to Page_dvc-home_money-form1_money-form2
+step 2: At Page_dvc-home_money-form1_money-form2 click on button_object --> navigate to Page_dvc-home
+step 3: At Page_dvc-home click on button_object --> navigate to Page_dvc-home_money-form1
+step 4: Add visual checkpoint at Page_dvc-home_money-form1",Medium
+8,"step 1: Navigate to Page_contact
+step 2: Add visual checkpoint at Page_contact",Low
+3,"step 1: Navigate to Page_dvc-home_money-form1_money-form2
+step 2: At Page_dvc-home_money-form1_money-form2 click on input_r0_
+step 3: At Page_dvc-home_money-form1_money-form2 click on button_object
+step 4: Add visual checkpoint at Page_dvc-home_money-form1_money-form2",Low
+9,"step 1: Navigate to Page_contact_step2
+step 2: Add visual checkpoint at Page_contact_step2",Low
