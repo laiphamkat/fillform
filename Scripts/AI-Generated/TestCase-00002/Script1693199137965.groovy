@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_contact_step2'
+'step 1: Navigate to Page_dvc-home'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/contact/step2')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/dvc-home')
 
-'step 2: Add visual checkpoint at Page_contact_step2'
+'step 2: Add visual checkpoint at Page_dvc-home'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00007_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

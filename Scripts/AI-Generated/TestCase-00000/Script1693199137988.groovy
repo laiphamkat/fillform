@@ -1,7 +1,7 @@
-import internal.GlobalVariable as GlobalVariable
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.model.FailureHandling
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.model.FailureHandling
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ def setup() {
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: At Page_home click on button_object --> navigate to Page_dvc-login'
+'step 2: At Page_home click on button_start_flow_1 --> navigate to Page_dvc-login'
 
 testObj = findTestObject('Object Repository/Page_home/button_object')
 
